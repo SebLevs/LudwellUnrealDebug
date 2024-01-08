@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Log.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\LearningUnreal\CryptRaider\Intermediate\Build\Win64\CryptRaiderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\LearningUnreal\CryptRaider\Plugins\LudwellUnrealDebug\Intermediate\Build\Win64\UnrealEditor\Development\Log\Module.Log.cpp.obj"
+"D:\LearningUnreal\CryptRaider\Plugins\LudwellUnrealDebug\Intermediate\Build\Win64\UnrealEditor\Development\Log\Default.rc2.res"
+/OUT:"D:\LearningUnreal\CryptRaider\Plugins\LudwellUnrealDebug\Intermediate\Build\Win64\UnrealEditor\Development\Log\UnrealEditor-Log.lib"

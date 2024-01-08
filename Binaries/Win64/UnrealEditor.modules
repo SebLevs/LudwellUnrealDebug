@@ -1,0 +1,8 @@
+{
+	"BuildId": "23058290",
+	"Modules": 
+	{
+		"Debug": "UnrealEditor-Debug.dll",
+		"Log": "UnrealEditor-Log.dll"
+	}
+}

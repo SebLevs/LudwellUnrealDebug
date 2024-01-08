@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\learningunreal\\cryptraider\\plugins\\ludwellunrealdebug\\intermediate\\build\\win64\\unrealeditor\\development\\log\\module.log.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\learningunreal\\cryptraider\\intermediate\\build\\win64\\cryptraidereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\learningunreal\\cryptraider\\plugins\\ludwellunrealdebug\\intermediate\\build\\win64\\unrealeditor\\development\\log\\definitions.log.h",
+            "d:\\learningunreal\\cryptraider\\plugins\\ludwellunrealdebug\\intermediate\\build\\win64\\unrealeditor\\inc\\log\\uht\\log.init.gen.cpp",
+            "d:\\learningunreal\\cryptraider\\plugins\\ludwellunrealdebug\\intermediate\\build\\win64\\unrealeditor\\inc\\log\\uht\\ulog.gen.cpp",
+            "d:\\learningunreal\\cryptraider\\plugins\\ludwellunrealdebug\\source\\log\\public\\ulog.h",
+            "d:\\learningunreal\\cryptraider\\plugins\\ludwellunrealdebug\\intermediate\\build\\win64\\unrealeditor\\inc\\log\\uht\\ulog.generated.h",
+            "d:\\learningunreal\\cryptraider\\plugins\\ludwellunrealdebug\\source\\log\\private\\log.cpp",
+            "d:\\learningunreal\\cryptraider\\plugins\\ludwellunrealdebug\\source\\log\\public\\log.h",
+            "d:\\learningunreal\\cryptraider\\plugins\\ludwellunrealdebug\\source\\log\\private\\ulog.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

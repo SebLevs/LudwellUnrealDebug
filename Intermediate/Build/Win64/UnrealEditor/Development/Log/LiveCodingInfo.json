@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Log.cpp.obj": [
+			"Log.init.gen.cpp.obj",
+			"ULog.gen.cpp.obj",
+			"Log.cpp.obj",
+			"ULog.cpp.obj"
+		]
+	}
+}
