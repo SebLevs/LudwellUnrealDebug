@@ -1,4 +1,5 @@
-// Copyright under GPL-3.0 license
+// Copyright under GNU General Public License v3.0
+
 #pragma once
 
 #include "Modules/ModuleManager.h"
