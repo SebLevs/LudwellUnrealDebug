@@ -4,7 +4,7 @@
 	"VersionName": "1.0",
 	"FriendlyName": "Ludwell Debug",
 	"Description": "Debug utility.",
-	"Category": "Editor utility",
+	"Category": "Debug",
 	"CreatedBy": "Ludwell Games",
 	"CreatedByURL": "https://github.com/SebLevs",
 	"DocsURL": "",
@@ -22,5 +22,7 @@
 				"Win64"
 			]
 		}
-	]
+	],
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false
 }
